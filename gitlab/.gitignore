@@ -1,0 +1,10 @@
+/tmp
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+*.tfvars
+*.tfvars.json
+
+vars.sh
